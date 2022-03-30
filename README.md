@@ -1,6 +1,6 @@
 ### Hello!! I'm Sora 🌷
 
-### Happy to meet you!
+### Nice to meet you!
 
 I am a data analyst student with a passion for coding, research, and analytics while also finding new ways to improve my skills and passions!            
 
