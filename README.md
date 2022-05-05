@@ -7,7 +7,7 @@ I am a data analyst student with a passion for coding, research, and analytics w
 What I'm up to? 
 
   - 🔭 Currently, my classes this semester is focused on Python, machine learning, and data mining. 
-  - 💻 A member of the Decision Systems and Science Club at Troy University.
+  - 💻 The treasurer of the Decision Systems and Science Club at Troy University.
   - 🌱 I am going to intern at CRC Insurance Services for Summer 2022. 
 
 
