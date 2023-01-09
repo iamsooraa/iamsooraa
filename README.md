@@ -6,9 +6,9 @@ I am a data analyst student with a passion for coding, research, and analytics w
 
 What I'm up to? 
 
-  - 🔭 Currently, I am completing my last semester at Troy University. 
-  - 💻 I am the treasurer of the Decision Systems and Science Club at Troy University.
-  - 🌱 I am looking for job in Data Analytics or Information Technology. 
+  - 🔭 Currently seeking a Data Analysts/Information Technology position. 
+  - 💻 I am a Troy University graduate with a BSBA in Global Business - Data Analytics.
+  - 🌱 I have experience in using Python and SQL. 
 
 
 <!--
