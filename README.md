@@ -2,13 +2,13 @@
 
 ### Nice to meet you!
 
-I am a data analyst student with a passion for coding, research, and analytics while also finding new ways to improve my skills and passions!            
+I am a Systems Administrator at Troy University with a passion and experience in data analytics.             
 
 What I'm up to? 
 
-  - 🔭 Currently seeking a Data Analysts/Information Technology position. 
+  - 🔭 Currently seeking a Data Analysts position. 
   - 💻 I am a Troy University graduate with a BSBA in Global Business - Data Analytics.
-  - 🌱 I have experience in using Python and SQL. 
+  - 🌱 I have experience in Python, SQL, and Powershell. 
 
 
 <!--
