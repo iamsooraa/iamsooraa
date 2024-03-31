@@ -8,7 +8,7 @@ What I'm up to?
 
   - 🔭 Currently seeking a Data Analysts position. 
   - 💻 I am a Troy University graduate with a BSBA in Global Business - Data Analytics.
-  - 🌱 I have experience in Python, SQL, and Powershell. 
+  - 🌱 I have experience in Python, SQL, and PowerShell. 
 
 
 <!--
